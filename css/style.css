@@ -2650,7 +2650,6 @@ select {
 
 /*=========================ADDED STYLES FOR 2.0 Version=============================*/
 
-
 nav ul li {
     list-style-type: none;
     display: inline;
@@ -2660,14 +2659,14 @@ nav ul li {
 }
 nav ul {
     background-color: grey;
-    padding: 7px;
 }
-
 
 nav ul li a {
     color: white;
     font-weight: 100;
 }
+
+
 
 
 
