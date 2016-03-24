@@ -2649,6 +2649,9 @@ select {
 
 
 /*=========================ADDED STYLES FOR 2.0 Version=============================*/
+header {
+    text-align: center;
+}
 
 nav ul li {
     list-style-type: none;
@@ -2660,6 +2663,7 @@ nav ul li {
 nav ul {
     background-color: grey;
 }
+
 
 nav ul li a {
     color: white;
